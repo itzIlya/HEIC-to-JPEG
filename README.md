@@ -37,4 +37,4 @@ You can run the executable in the following format:
 
 ## Inspiration
 
-Tbh I’m currently in the middle of midterms so anything that keeps me from studying can be regarded as an inspiration to write a barely half decent C. The other inspiration was my hatred towards this very ill supported format for supporting files. Every time I want to backup images from my iPhone to my laptop I have to convert all the images stored in HEIC to JPEG and since there aren’t any decent tools to convert HEIC images to JPEG I also decided to make another crappy tool to achieve the same awful results as everyone else.
+Tbh I’m currently in the middle of the midterms so anything that keeps me from studying can be regarded as an inspiration to write a barely half decent C program. The other inspiration was my hatred towards this very ill supported format for supporting files (HEIC). Every time I want to backup images from my iPhone to my laptop I have to convert all the images stored in HEIC to JPEG and since there aren’t any decent tools to convert HEIC images to JPEG I also decided to make another crappy tool to achieve the same awful results as everyone else.
